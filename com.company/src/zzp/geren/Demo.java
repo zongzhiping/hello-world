@@ -7,5 +7,7 @@ public class Demo {
     public static void main(String args[]){
         System.out.print("hello world!");
         System.out.print("hello world!");
+        System.out.print("Also this is the 1st time is use it");
+
     }
 }
